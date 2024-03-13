@@ -11,7 +11,7 @@ typedef struct {
   int32_t RSSI;
 } Network;
 
-#define MAX_NODES 4
+#define MAX_NODES 2
 Network esp_networks[MAX_NODES];
 uint8_t detected_beacons = 0;
 
