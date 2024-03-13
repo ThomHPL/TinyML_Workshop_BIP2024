@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ThomHPL/TinyML_Workshop_BIP2024/assets/15064079/9734e240-34a7-4143-b263-0c574d9c8d09" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
+<img src="https://github.com/ThomHPL/TinyML_Workshop_BIP2024/assets/15064079/e397bd78-d13e-4a30-bb24-ca60b2abb74b" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
 </p>
 
 ## Ressources
