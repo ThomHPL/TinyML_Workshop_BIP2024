@@ -4,8 +4,8 @@
 
 ## Ressources
 Slides:
-* [Quick theory primer]()
-* [Workshop]()
+* [Quick theory primer](https://github.com/ThomHPL/TinyML_Workshop_BIP2024/blob/fe7f241119972cf7a3fe97493ba51e2a7297b23a/Porting%20ML%20to%20MCU-part1.pdf)
+<!-- * [Workshop]() -->
 
 ## Interactive workshop tool
 You can follow [this digipad](https://digipad.app/p/694805/698067c39dda) to complete the workshop.
